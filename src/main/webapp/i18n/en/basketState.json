@@ -1,0 +1,10 @@
+{
+  "jhispterBiloungaaleckApp": {
+    "BasketState": {
+      "null": "",
+      "NOTFINISHED": "NOTFINISHED",
+      "VALIDATED": "VALIDATED",
+      "PAID": "PAID"
+    }
+  }
+}

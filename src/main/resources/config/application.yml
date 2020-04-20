@@ -150,11 +150,11 @@ jhipster:
     title: JhispterBiloungaaleck API
     description: JhispterBiloungaaleck API documentation
     version: 0.0.1
-    terms-of-service-url:
-    contact-name:
+    terms-of-service-url: http://www.polytech.fr
+    contact-name: myapplication Help Team
     contact-url:
-    contact-email:
-    license:
+    contact-email: help-myapplication@polytech.fr
+    license: Aleck Bilounga copyrights
     license-url:
 # ===================================================================
 # Application specific properties
